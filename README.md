@@ -12,7 +12,7 @@ higher levels are fully connected layers based on a traditional MLP with hidden 
 the output layer.
 
 
-# Accuracy Achieved = 99.6%
+# Accuracy Achieved = 99.6% in 10 epochs
 
 # Visualization
 
